@@ -1,3 +1,6 @@
+## Dataset
+1. [Jumlah penduduk di Jawa Barat (2013-2024)](https://github.com/adindadwi68/Adinda-Dwi-Lestari/blob/main/jumlah%20penduduk.csv)
+2. [Kelompok Pekerjaan di Jawa Barat (2013-2024)](https://github.com/adindadwi68/Adinda-Dwi-Lestari/blob/main/kelompok%20pekerjaan.csv)
 # Kependudukan Jawa Barat
 Jawa Barat merupakan salah satu provinsi dengan jumlah penduduk terbanyak di Indonesia. Sejak tahun 2013, laju pertumbuhan penduduk di provinsi ini menunjukkan tren positif dengan rata-rata pertumbuhan sekitar 2% per tahun.
 ![Jumlah Penduduk Pertahun](https://github.com/user-attachments/assets/97de01c7-9620-4a92-b9d7-693dc67225cf)
