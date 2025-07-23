@@ -135,7 +135,7 @@ Sementara itu, korelasi antara jumlah penduduk dan jumlah fasilitas kesehatan me
 Dengan demikian, meskipun kuantitas fasilitas kesehatan telah mengikuti pertumbuhan penduduk, diperlukan evaluasi yang lebih dalam terhadap kualitas, distribusi, serta efektivitas layanan agar infrastruktur yang ada dapat benar-benar berdampak dalam menekan angka kematian dan meningkatkan kesejahteraan masyarakat.
 
 ---
-## 📬 Contact Me
+## 📬 Kontak
 - 📧 Email: [adindadl1234@gmail.com](mailto:adindadl1234@gmail.com)
 - 💬 Telegram: [@rynt68](https://t.me/rynt68)
 - 💼 LinkedIn: [Adinda Dwi Lestari](https://linkedin.com/in/adindadwi06)
