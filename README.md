@@ -1,5 +1,5 @@
 
-> Proyek ini menganalisis data kependudukan Jawa Barat, meliputi jumlah penduduk, kelompok pekerjaan, jumlah penduduk miskin, kasus penyakit, dan kematian.
+> Proyek ini merupakan proyek pribadi yang menganalisis data kependudukan Jawa Barat, meliputi jumlah penduduk, kelompok pekerjaan, jumlah penduduk miskin, kasus penyakit, dan kematian.
 
 ## 📁 Struktur Repository
 - `Dataset`— [Dataset mentah yang digunakan](https://github.com/adindadwi68/Kondisi-kependudukan-Jawa-Barat/tree/main/Dataset)
