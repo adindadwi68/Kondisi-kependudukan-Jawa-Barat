@@ -136,6 +136,6 @@ Dengan demikian, meskipun kuantitas fasilitas kesehatan telah mengikuti pertumbu
 
 ---
 ## 📬 Kontak
-- 📧 Email: [adindadl1234@gmail.com](mailto:adindadl1234@gmail.com)
+- 📧 Email: [adindadl1234@gmail.com](mailto:adindaddwiilestari@gmail.com)
 - 💬 Telegram: [@rynt68](https://t.me/rynt68)
 - 💼 LinkedIn: [Adinda Dwi Lestari](https://linkedin.com/in/adindadwi06)
